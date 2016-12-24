@@ -7,3 +7,9 @@
     font-family: Calibri, sans-serif;
     font-size: 1.5em;
 }
+
+@media only screen and (max-width: 360px) {
+    #footer-copyright-text, #greeting {
+        font-size: .8em;
+    }
+}
